@@ -96,7 +96,7 @@ superstore-sales-dashboard/
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/Harshitharam25/orders_tableau.git
+git clone https://github.com/Harshitharam25/superstore-sales-dashboard.git
 ```
 
 2. Open `dashboard.twb/orders.prep.tfl` in **Tableau Prep Builder** to see the data-cleaning flow.

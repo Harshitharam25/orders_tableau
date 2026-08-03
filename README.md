@@ -70,7 +70,7 @@ Interactive Sales Dashboard
 ## Repository Structure
 
 ```
-orders_tableau/
+superstore-sales-dashboard/
 ├── data/
 │   ├── Orders_Central.csv
 │   ├── Orders_East.xlsx
